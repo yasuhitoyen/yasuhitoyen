@@ -33,10 +33,10 @@
 
 ### Tech Stack
 **Languages**: Python, Java, C, C#, JavaScript, HTML/CSS  
-**Frameworks & Tools**: React, Node.js, Express, Vite, Tailwind, Nginx, PM2, Git  
+**Frameworks & Tools**: React, React-Native 
 **Databases**: PostgreSQL, MongoDB  
 **ML**: PyTorch, TensorFlow, Scikit-learn  
-**Other**: APIs, Firebase, Linux, Docker, Prompt Engineering  
+
 
 ---
 
@@ -54,5 +54,4 @@
 
 ---
 
-> “Building things that help others — that’s what makes tech worth it.”
 
