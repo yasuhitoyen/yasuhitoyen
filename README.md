@@ -18,24 +18,7 @@
   ➤ Integrated Riot Games API for fetching match data and OpenAI for coaching.  
   ➤ Built with Vite, React, TailwindCSS (Frontend) and Express, Nginx, PM2 (Backend).  
 
----
 
-### Experience
-**Software Engineer Intern @ Avalanche Technology** (May–July 2023)  
-- Automated testing and visualization of semiconductor chip data using Python  
-- Cut manual analysis time in half and revealed new durability failure patterns
-
-**ML Instructor @ Innovacol**  
-- Designed & taught Python and ML fundamentals to Latin American high school students  
-- Hosted guest speakers from Google, MIT, and Stanford
-
----
-
-### Tech Stack
-**Languages**: Python, Java, C, C#, JavaScript, HTML/CSS  
-**Frameworks & Tools**: React, React-Native 
-**Databases**: PostgreSQL, MongoDB  
-**ML**: PyTorch, TensorFlow, Scikit-learn  
 
 
 ---
